@@ -1,0 +1,9 @@
+pdf2image
+pytesseract
+pandas
+seaborn
+matplotlib
+firebase_admin
+gradio
+Pathlib
+openai
